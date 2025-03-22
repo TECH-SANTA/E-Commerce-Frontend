@@ -52,5 +52,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "https://e-commerce-backend-tau-five.vercel.app"
+  "proxy": "https://http://localhost:5000"
 }
